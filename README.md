@@ -1,4 +1,4 @@
-Minesweeper game (pygame) with a perfect AI that will always play the best move.
+Minesweeper game (pygame) with a perfect AI that will always play the best move using propositional logic.
 
 How to run:
 
